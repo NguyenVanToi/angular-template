@@ -1,0 +1,12 @@
+@import './../../../../assets/theme/theme.scss';
+
+.auth {
+    display: flex;
+    justify-content: center;
+}
+.wrap-form-auth {
+    background-color: var(--bg-color1);
+    padding: 1rem;
+    border-radius: $borderRadius;
+    box-shadow: $boxShadow;
+}
